@@ -8,7 +8,7 @@ class GitIngnoreApplicationTests {
 
     @Test
     void contextLoads() {
-        System.out.println("test");
+        System.out.println("update");
     }
 
 }
